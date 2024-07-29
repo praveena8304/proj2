@@ -1,0 +1,57 @@
+.movie-card{
+ border-radius: 20px;  
+ border-color: blue; 
+ box-shadow: 2px 1px 1px 1px rgb(42, 39, 39);
+ height: 500px;
+}
+.imgmovie{
+    height: 250px;
+    border-radius: 20px;
+}
+
+
+#moviecontainer{
+    width: 100%;
+    height:auto;
+    /* background-color: #bbd1d3; */
+    background-image: url('./img/bg7.webp');
+    background-size:cover;
+}
+/* .heading{
+    font-size: 25px;
+   
+    
+    font-weight: bold;
+    text-align: center;
+    font-size: 40px;
+    
+  color: #f0f4f4;
+  text-shadow: 1px 1px 1px rgb(12, 12, 12);
+  font-weight: bold;
+   */
+/* } */
+.heading2{
+    font-size: 40px;
+    text-align: center;
+    font-family: sans-serif;
+    padding-top: 30px;
+    font-weight: 600;
+
+}
+.paragraph{
+    font-size: 20px;
+    text-align: center;
+    font-family: sans-serif;
+
+}
+ .moviebutton{
+    border-radius: 10px;
+    border-color: #076066;
+}
+#movieinput{
+    border-radius: 10px;
+    border-color: #076066;
+    /* margin-bottom: 20px; */
+
+}
+

@@ -1,0 +1,96 @@
+.row {
+  margin: 0px !important;
+}
+
+#main-heading{
+    width: auto;
+    height: auto;
+background-color: rgb(208, 231, 240);
+    
+}
+.hi-praveena{
+    color:black ;
+    font-family: sans-serif;
+    font-weight: 800;
+    padding-left: 50px;
+    padding-top: 40px;
+    padding-bottom: 10px;
+    
+}
+.main-matter{
+    color: black;
+    font-family: Verdana;
+    font-weight: 500;
+    font-size: 18px;
+    padding-left:50px ;
+    padding-bottom: 20px;
+}
+.pageimg{
+    /* width: 200px; */
+    margin-top: 40px;
+    border-radius:  0px 25px 0px 25px;
+    margin-bottom: 30px;
+}
+.hname {
+    font-size: 20px;
+    color: #f0f4f4;
+    text-shadow: 1px 1px 1px rgb(12, 12, 12);
+    font-weight: bold;
+     padding-top: 1px
+   
+  }
+  #logo2 img {
+    height: 30px;
+    width: 37px;
+    border-radius: 5px; 
+    margin-left: 30px;
+    margin-top: 10px;
+   
+  }
+  
+
+  
+
+  #footer-work{
+ 
+    background-color: rgb(90, 88, 88);
+  }
+  .touch{
+    color: beige;
+    font-family: sans-serif;
+    font-weight: 800;
+    padding-left: 30px;
+    font-size: 40px;
+    padding-top: 20px;
+
+  }
+  #footer-work h4{ 
+    color: black;
+    font-size: 30px;
+    font-family: sans-serif;
+    text-align: center;
+    padding-top: 30px;
+    font-weight: 600;
+    
+  }
+  #footer-work p{
+     color: black;
+    font-size: 15px;
+    font-family: Verdana;
+    text-align: center;
+    padding-top: 10px;
+    font-weight: 500;
+  }
+  .footer-img{
+      background-color: rgb(90, 88, 88);;
+    border-radius: 20px;
+   
+    padding-left: 40%;
+    
+    
+  }
+    
+
+    
+  
+  
